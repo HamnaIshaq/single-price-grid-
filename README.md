@@ -48,7 +48,7 @@ In this project, I learnt and tried using CSS units relative to font-size, in pa
 
 ### Useful resources
 
-- [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s&t=34s) - This video really helped me in understanding how to approach responsive design. The instructor, Kevin Powell, is an amazing teacher and expalins HTML and CSS concepts really well. I would really recommend this video to anyone starting out and struggling with responsive design concepts.
+- [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s&t=34s) - This video really helped me in understanding how to approach responsive design. The instructor, Kevin Powell, is an amazing teacher and expalins HTML and CSS concepts really well. I would strongly recommend this video to anyone starting out and struggling with responsive design concepts.
 
 ## Author
 - Frontend Mentor - [@HamnaIshaq](https://www.frontendmentor.io/profile/HamnaIshaq)
