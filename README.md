@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Code Link](https://github.com/HamnaIshaq/single-price-grid-)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Link](https://hamnaishaq.github.io/single-price-grid-/)
 
 ## My process
 
